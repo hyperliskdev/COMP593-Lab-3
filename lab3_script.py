@@ -93,7 +93,6 @@ def process_sales_data(sales_csv, orders_dir):
 
         writer.close()
 
-        break;
     return
 
 
